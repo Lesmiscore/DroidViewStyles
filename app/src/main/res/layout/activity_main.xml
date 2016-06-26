@@ -20,11 +20,21 @@
         android:layout_height="wrap_content"
         android:text="android:Widget.Holo.Button"
         style="@android:style/Widget.Holo.Button"/>
+	<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="android:Widget.Holo.Light.Button"
+        style="@android:style/Widget.Holo.Light.Button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="android:Widget.Material.Button"
         style="@android:style/Widget.Material.Button"/>
+	<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="android:Widget.Material.Light.Button"
+        style="@android:style/Widget.Material.Light.Button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
